@@ -1,0 +1,37 @@
+This is a website for my university challenge (it is a week-long project development). It needs to be user-friendly and have a good UI and UX. Also it should be responsive and should work on both desktop and mobile.
+We do not need to take it live for the moment but we do need placeholder sample items on the website so that we can present it to people during the presentation.
+Our idea is to local host it and expose the port of our device so that people can access it from there. 
+
+Its name is Use(Less) - it is a website for renting out household non-perishable and non-consumable items. 
+
+
+
+E-commerce website for household non perishable and on consummable items. 
+
+List of features - 
+Login - Oauth (google login)
+wallet for monetary transactions
+chatting feature between rentee and renters
+
+
+Users who want to put products for others to rent - pictures of the product,
+                                                    a description, 
+                                                    condition of the product, 
+                                                    renters agreement, 
+                                                    payment recieving details, 
+                                                    any special conditions
+                                                    dashboard of products kept on rent by others
+                                                    
+Customers who want to rent products from others - renters agreement, 
+                                                    submission of ID and address proof,
+                                                    dashboard of rented products with return dates and penalties
+                                                    extension of rented product option
+                                                    
+                                                    
+
+
+
+Payment interface 
+FAQ section 
+Contact Us 
+User Reviews for items and their sellers
