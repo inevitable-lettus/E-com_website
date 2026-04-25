@@ -3,7 +3,7 @@
 A full-stack web app for renting household non-consumable items between users. Built as a university challenge project.
 
 **Features:** Google OAuth login · Simulated wallet · Real-time chat · Rental lifecycle management · Reviews · Item listings with images
-
+IMPORTANT - THIS WEBSITE IS A TEST MADE USING CLAUDE ONLY FOR DEMO PURPOSES.
 ---
 
 ## Prerequisites
